@@ -1,0 +1,16 @@
+{
+  "name": "Daftar wisata jogja ",
+  "short_name": "jogjawis",
+  "description": "Aplikasi PWM Pertama Saya",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#00897B",
+  "background_color": "#00897B",
+  "icons": [
+    {
+      "src":"icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
